@@ -2,7 +2,7 @@
 
 A beautiful, dark-mode enabled weather app that allows you to check current weather conditions based on your location or by searching for a city manually.
 
-![Clima App Screenshot](screenshots/clima-screenshot.png)
+![Clima App Screenshot](1.png)
 
 ## Features
 
